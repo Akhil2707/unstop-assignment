@@ -1,7 +1,7 @@
 const Seats = [
   {
-    seatId: "1",
-    seatNumber: "1",
+    seatId: 1,
+    seatNumber: 1,
     "status":'available',
   },
   {
@@ -38,50 +38,62 @@ const Seats = [
   {
     seatId: "8",
     seatNumber: "8",
+    "status":'booked',
   },
   {
     seatId: "9",
     seatNumber: "10",
+    "status":'booked',
   },
   {
     seatId: "10",
     seatNumber: "10",
+    "status":'available',
   },
   {
     seatId: "11",
     seatNumber: "11",
+    "status":'available',
   },
   {
     seatId: "12",
     seatNumber: "12",
+    "status":'available',
   },
   {
     seatId: "13",
     seatNumber: "14",
+    "status":'available',
   },
   {
     seatId: "15",
     seatNumber: "15",
+    "status":'available',
   },
   {
     seatId: "16",
     seatNumber: "16",
+    "status":'available',
   },
   {
     seatId: "17",
     seatNumber: "17",
+    "status":'available',
   },
   {
     seatId: "18",
     seatNumber: "18",
+    "status":'available',
   },
   {
     seatId: "19",
     seatNumber: "19",
+    "status":'available',
   },
   {
     seatId: "20",
     seatNumber: "20",
+    "status":'available',
   },
   {
     seatId: "21",
@@ -95,46 +107,57 @@ const Seats = [
   {
     seatId: "23",
     seatNumber: "23",
+    "status":'available',
   },
   {
     seatId: "24",
     seatNumber: "24",
+    "status":'available',
   },
   {
     seatId: "25",
     seatNumber: "25",
+    "status":'available',
   },
   {
     seatId: "26",
     seatNumber: "26",
+    "status":'available',
   },
   {
     seatId: "27",
     seatNumber: "27",
+    "status":'available',
   },
   {
     seatId: "28",
     seatNumber: "28",
+    "status":'available',
   },
   {
     seatId: "29",
     seatNumber: "29",
+    "status":'available',
   },
   {
     seatId: "30",
     seatNumber: "30",
+    "status":'available',
   },
   {
     seatId: "31",
     seatNumber: "31",
+    "status":'available',
   },
   {
     seatId: "32",
     seatNumber: "32",
+    "status":'available',
   },
   {
     seatId: "33",
     seatNumber: "33",
+    "status":'available', 
   },
   {
     seatId: "34",
@@ -188,6 +211,7 @@ const Seats = [
   {
     seatId: "46",
     seatNumber: "46",
+    "status":'available',
   },
   {
     seatId: "47",
@@ -197,30 +221,37 @@ const Seats = [
   {
     seatId: "48",
     seatNumber: "48",
+    "status":'available',
   },
   {
     seatId: "49",
     seatNumber: "49",
+    "status":'available',
   },
   {
     seatId: "50",
     seatNumber: "50",
+    "status":'available',
   },
   {
     seatId: "51",
     seatNumber: "51",
+    "status":'available',
   },
   {
     seatId: "52",
     seatNumber: "52",
+    "status":'available',
   },
   {
     seatId: "53",
     seatNumber: "53",
+    "status":'available',
   },
   {
     seatId: "54",
     seatNumber: "54",
+    "status":'available',
   },
   {
     seatId: "55",
@@ -279,6 +310,7 @@ const Seats = [
   {
     seatId: "67",
     seatNumber: "67",
+    "status":'available',
   },
   {
     seatId: "68",
@@ -293,27 +325,33 @@ const Seats = [
   {
     seatId: "70",
     seatNumber: "70",
+    "status":'available',
   },
   
   {
     seatId: "71",
     seatNumber: "71",
+    "status":'available',
   },
   {
     seatId: "72",
     seatNumber: "72",
+    "status":'available',
   },
   {
     seatId: "73",
     seatNumber: "73",
+    "status":'available',
   },
   {
     seatId: "74",
     seatNumber: "74",
+    "status":'available',
   },
   {
     seatId: "75",
     seatNumber: "75",
+    "status":'available',
   },
   {
     seatId: "76",
@@ -323,6 +361,7 @@ const Seats = [
   {
     seatId: "77",
     seatNumber: "77",
+    "status":'available',
   },
   {
     seatId: "78",
@@ -332,6 +371,7 @@ const Seats = [
   {
     seatId: "79",
     seatNumber: "79",
+    "status":'available',
   },
   {
     seatId: "80",
